@@ -5,7 +5,7 @@
 
 Welcome to EMS Student Profile documentation!
 ===================================================
-Body
+This is official IFM EMS manual for Students
 
 .. toctree::
    :maxdepth: 3
