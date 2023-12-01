@@ -1,0 +1,10 @@
+Profile
+++++++++
+
+Profile page provides all the information about student as shown 
+
+Academic Timeline provides the history of your academic information at IFM. Previous academics records are shown here.
+Next of Kin Details provide information about next of kin. 
+Note: Make sure this information is always correct.
+Past education section provides details of your past academic records. The arrows can be expanded to provide more information. 
+Documents section list the documents you have provided during registration. 

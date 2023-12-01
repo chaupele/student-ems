@@ -1,0 +1,5 @@
+Fee Structure
+++++++++++++++
+
+Fee Structure section provide a holistic view of all fees required to be paid by the student. The fees contain fee components, example caution money, identity card free, IFMSO fee etc. and they are for each given year of study. 
+Fee structure provide a transparent way to view the breakdown of individual fee. 

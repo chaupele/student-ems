@@ -1,0 +1,5 @@
+Navigating Around (Basics)
+++++++++++++++++++++++++++
+
+In small screen devices, especially smart phones, hamburg menu is a very important menu. Use this to open or close side navigation as shown in figure. 
+Scrolling horizontally and vertically to see some content is a common in mobile devices. The system automatically will show scrolling bars both horizontally and vertically if they are required 

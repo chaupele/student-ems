@@ -1,0 +1,10 @@
+Sign In
+++++++++
+EMS system is designed and developed to be responsive in all types of display sizes so at to ensure the user experience remains excellent across all devices. 
+
+Sign In
+========
+
+To sign In, open any browser (Mozilla, Edge, Chrome, Safari etc.), open the IFM website, go to ICT Services, and open EMS. 
+The sign in page will open. 
+If you are using the system for the first time, put your Registration Number as Username and Registration Number as password. 

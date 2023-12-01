@@ -1,0 +1,4 @@
+Registration
++++++++++++++
+
+Registration section gives the registration status of a given semester in an academic year. 

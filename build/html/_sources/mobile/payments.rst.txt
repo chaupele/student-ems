@@ -1,0 +1,5 @@
+Payments
++++++++++
+
+Payment’s section allows you to do four (4) things. 
+View your Invoices, their control number, amount, and payment statuses, view individual Payment and their transaction number, reference number amount and date paid, and get Receipt of that payment. Also, one can generate bill for a particular payment, example lost ID, hostel fees etc. 

@@ -1,0 +1,8 @@
+Mini Profile Preview
++++++++++++++++++++++
+
+Mini Profile Preview provides a preview of your (student) profile. It is accessed by clicking the mini photo on the top right corner. Once that is done, the mini window will open and provide profile information like name, email address, registration number, programme of study etc. 
+Logout button is found on this window. When you have finished using the system, use this button to safely logout of the system. 
+Note: It is important to remember to logout to avoid other users using your account.
+Update basic info button is used to update basic information and update the password. Figure 5 shows the information that can be update. 
+Note: Immediately after signing in for first time, use this feature to update your password. Make sure you remember your new password. It is important to do this to avoid other users using your account. 
